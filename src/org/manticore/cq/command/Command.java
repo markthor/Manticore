@@ -1,5 +1,5 @@
 package org.manticore.cq.command;
 
-public interface Command {
+public class Command {
 
 }
