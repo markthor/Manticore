@@ -1,4 +1,4 @@
-package com.manticore.cq;
+package org.manticore.cq;
 
 public class CqFacade {
 
